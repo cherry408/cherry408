@@ -26,7 +26,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cherry408&repo=bookstore-master)](https://github.com/cherry408/bookstore-master)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cherry408&repo=VaccineInformationSystem)](https://github.com/cherry408/VaccineInformationSystem)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cherry408&repo=photoTo2k-master)](https://github.com/cherry408/photoTo2k-master)
 <br><br><br>
 
 ### Github 活跃度
