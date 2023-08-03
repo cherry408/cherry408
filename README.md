@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
  
--   <a href="https://space.bilibili.com/433169014"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站作者。
+-   <a href="https://space.bilibili.com/433169014"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：B站作者。有问题可以和我联系。
 
 ### **技术栈:**
 
